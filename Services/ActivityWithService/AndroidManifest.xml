@@ -26,6 +26,10 @@
         <service 
             android:name=".TestService"
             android:exported="false"></service>
+        <service 
+            android:name=".HelloIntentService"
+            android:exported="false"></service>
+        
     </application>
 
 </manifest>
